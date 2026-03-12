@@ -47,7 +47,7 @@ CommandPatternTest - Тестування
 
 ![Код](https://github.com/Yarickkk/zav5/blob/main/Test.png)
 
-###Приклад роботи програми
+Приклад роботи програми
 
 ![Приклад](https://github.com/Yarickkk/zav5/blob/main/Priklad.png)
 ![Приклад](https://github.com/Yarickkk/zav5/blob/main/priklad2.png)
